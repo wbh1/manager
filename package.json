@@ -59,5 +59,8 @@
       "packages/*"
     ]
   },
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "dependencies": {
+    "cypress-image-snapshot": "^3.1.1"
+  }
 }
